@@ -1454,7 +1454,7 @@ Iogurte;Apreciare;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Mió;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Mió;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Mió;sim;não;não;não;sim;não;não;não;não;não;não;não
-Chocolate;+Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
+Chocolate;Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Cacau Show;sim;não;não;não;sim;não;não;não;não;não;não;não
 Iogurte;Yogodeli;sim;não;não;não;sim;não;não;não;não;não;não;não
 Pão;Massaleve;sim;não;não;não;sim;não;não;não;não;não;não;não
@@ -1497,7 +1497,7 @@ Chocolate;Nestlé;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Montblanc;sim;não;não;não;sim;não;não;não;não;não;não;não
 Iogurte;Verde Campo;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Flormel;sim;não;não;não;sim;não;não;não;não;não;não;não
-Pasta de Amendoim;+Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
+Pasta de Amendoim;Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
 Pasta de Amendoim;Livre d;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Banana Brasil;sim;não;não;não;sim;não;não;não;não;não;não;não
 Pasta de Amendoim;Bendú;sim;não;não;não;sim;não;não;não;não;não;não;não
@@ -3605,7 +3605,7 @@ Iogurte;Valentim;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Linea;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Chocolate;Neugebauer;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Chocolate;Pinati;sim;não;não;sim;sim;não;não;não;não;não;não;não
-Pão;{};sim;sim;sim;não;não;não;não;não;não;não;não;não
+Pão;XXX;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Leite;Maquiné;sim;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Garoto;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Arte Chocolate;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -3890,7 +3890,7 @@ Pão;Pão Nosso;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Leite;Tirol;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Bella Toscana;não;sim;não;não;não;não;não;não;não;não;não;não
 Iogurte;Batavo;sim;não;não;não;não;não;não;não;sim;não;não;não
-Chocolate;+Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
+Chocolate;Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
 Iogurte;Betânia;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Leite;CCGL;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Aipi;não;sim;não;não;não;não;não;não;não;não;não;não
@@ -3945,7 +3945,7 @@ Pão;Supermercado Cidade Canção;sim;não;sim;não;não;não;não;não;não;nã
 Chocolate;Trento;sim;sim;sim;não;não;não;sim;sim;não;não;não;não
 Leite;Parmalat;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Delirie;sim;não;sim;não;não;não;não;não;não;não;não;não
-Pasta de Amendoim;+Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
+Pasta de Amendoim;Mu;sim;não;não;não;sim;não;não;não;não;não;não;não
 Pão;Winkert;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Pão;Rio Branco;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Dengo;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -3987,7 +3987,7 @@ Molho de Tomate;Tambaú;sim;não;sim;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;DaColônia;sim;não;não;não;sim;não;não;não;não;não;não;não
 Pão;Wickbold;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Nor Foods;não;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Cacau Show;sim;não;sim;não;não;não;não;não;não;sim;não;não
 Pão;Nutrilev;não;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Vó Neuza;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -4185,7 +4185,7 @@ Pão;Got U;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Cacau Show;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Divine;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Tnuva;sim;não;sim;não;não;não;não;não;não;sim;não;não
-Chocolate;+Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
+Chocolate;Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
 Pão;Roldão;sim;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Itambé;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Neugebauer;sim;sim;sim;não;não;sim;não;não;não;não;não;não
@@ -4242,7 +4242,7 @@ Iogurte;Nomoo;não;não;sim;não;não;sim;não;não;não;não;não;não
 Pão;Nutribem;não;não;não;sim;não;não;não;não;não;não;não;não
 Chocolate;Athletica Nutrition;sim;não;sim;sim;sim;não;não;não;não;não;não;não
 Chocolate;Popai;sim;não;não;não;sim;não;não;não;não;não;não;não
-Pão;+ Q Pão;não;não;sim;não;não;não;não;não;sim;não;não;não
+Pão;Q Pão;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Carrefour;sim;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;UniBaby;sim;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Itambé;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -4414,8 +4414,8 @@ Pasta de Amendoim;FrozenFit;não;não;não;não;não;não;não;não;sim;não;nã
 Leite;Ritânia;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Fazenda São José;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Nilza;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Mavalério;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Kanazawa;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Plus Vita;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -4612,7 +4612,7 @@ Chocolate;Tnuva;sim;não;sim;não;não;não;não;não;não;sim;não;não
 Chocolate;Cacau Show;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Chocolate;Lindt;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Olé;não;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;sim;não;não;sim
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;sim;não;não;sim
 Pão;Delícias do Trigo;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Predilecta;sim;não;não;sim;não;não;não;sim;não;não;não;não
 Chocolate;Olvebra;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -4682,7 +4682,7 @@ Pão;Kim;não;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Only4;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;Casa Di Latte;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Yummy;não;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;La Ganexa;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Pão;Companhia do Trigo;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Power One;sim;não;não;não;sim;não;não;não;não;não;não;não
@@ -4711,7 +4711,7 @@ Pão;Dia;sim;não;sim;não;não;não;não;não;não;não;não;não
 Leite;LeitBom;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Harald;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Decacau;sim;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Iogurte;Batavo;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Heinz;sim;não;sim;não;não;não;não;sim;não;não;não;não
 Pão;Bauducco;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -4858,11 +4858,11 @@ Molho de Tomate;Bonare;não;não;sim;não;não;não;não;não;não;não;não;nã
 Pão;Pão de Mel;não;sim;sim;não;não;não;não;não;não;não;não;não
 Pão;Delícias do Trigo;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Paladori;não;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Nutri Vida;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Casa Valentina;sim;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Fazenda São José;sim;não;não;não;não;não;não;não;sim;não;não;não
-Chocolate;24;sim;não;sim;não;não;não;não;não;não;não;não;não
+Chocolate;YYY;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Campagna;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Mourisco;não;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Danone;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -4988,7 +4988,7 @@ Chocolate;Cacau Show;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Pão;Natural Fit;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Amalfi;não;sim;não;sim;não;não;não;não;não;não;não;não
 Chocolate;Callebaut;sim;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;Camponesa;sim;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Cookoa;não;não;sim;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Bretas;não;não;sim;não;não;não;não;não;sim;não;não;não
@@ -5200,7 +5200,7 @@ Iogurte;Batavo;sim;não;sim;sim;não;não;não;sim;não;não;não;não
 Pão;Soares;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Nutríssima;sim;não;não;não;sim;não;não;não;não;não;não;não
 Molho de Tomate;Frentano;sim;não;não;não;não;não;não;não;sim;não;não;sim
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Cepêra;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Vita Power;sim;não;não;sim;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Power Vida;não;não;não;não;não;não;não;não;sim;não;não;não
@@ -5233,7 +5233,7 @@ Leite;Santo Antonio;sim;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Friestig;sim;não;não;não;sim;não;não;não;não;não;não;não
 Leite;Dia;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Cirio;sim;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Gulosina;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Integral Mix;não;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Bendito Pão;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5349,7 +5349,7 @@ Molho de Tomate;Julieta;não;não;sim;não;não;não;não;sim;não;não;não;nã
 Pasta de Amendoim;Mandubim;não;não;não;não;sim;não;não;não;não;não;não;não
 Pão;Brico Alimentos;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Tambaú;não;não;sim;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Grandoim;não;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Veganutris;sim;não;não;não;sim;não;não;não;não;sim;não;não
 Chocolate;Munik;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -5520,14 +5520,14 @@ Iogurte;Piá;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Sadio;sim;não;sim;não;não;não;não;sim;não;não;não;não
 Pasta de Amendoim;Castel Naturale;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Be Nature;não;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Nestlé;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Chocolate;Chocolate da Ilha;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Oner;não;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Carrefour;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Nestlé;sim;não;não;não;não;não;não;não;não;não;não;sim
 Leite;Itambé;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;sim;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Veganutris;sim;não;não;não;sim;não;não;não;não;não;não;não
 Leite;Romano;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Catavento;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5577,7 +5577,7 @@ Pão;Special;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Pão Divino;sim;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Holandês;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Netto;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Top Chef;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Arte Chocolate;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;Rio Forte;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5593,7 +5593,7 @@ Chocolate;Super Vegan;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;LeitBom;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Cotochés;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Pratelle;não;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Top Chef;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Nut Me;não;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;"Gold \u0026amp; Ko";sim;não;não;sim;sim;não;não;não;não;não;não;não
@@ -5705,7 +5705,7 @@ Molho de Tomate;Salsaretti;não;não;não;não;não;não;não;não;sim;não;não
 Chocolate;Vitao;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Vitao;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Chocolate;Vitao;sim;não;não;sim;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;sim;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Maralat;sim;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Select;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Pão;Nutribem;não;não;não;sim;não;não;não;não;não;não;não;não
@@ -5725,7 +5725,7 @@ Pão;Pão do Luiz;não;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Amma;não;não;sim;não;não;não;não;não;sim;sim;não;sim
 Molho de Tomate;Requinte Caseiro;não;não;sim;não;não;não;não;não;não;não;sim;não
 Leite;CompLeite;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Amendomaxi;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;Kubera;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Giohnutz;não;não;não;não;não;não;não;não;sim;não;não;não
@@ -5738,7 +5738,7 @@ Leite;Nestlé;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Sacciali;sim;não;não;sim;não;não;não;não;não;não;não;não
 Pão;Prolanche;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Dajuda;não;não;sim;não;não;não;não;não;sim;não;não;não
-Chocolate;+Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
+Chocolate;Mu;sim;não;sim;sim;sim;não;não;não;não;não;não;não
 Leite;Xandô;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Felmann;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Leite;Totalac;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5796,7 +5796,7 @@ Pão;Lekker;sim;não;não;sim;não;não;não;sim;não;não;não;não
 Pão;Nutrileve;não;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Coppola;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;"Grãos \u0026amp; Cereais";não;não;sim;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Iogurte;Batavo;sim;não;não;sim;não;sim;não;sim;não;não;não;não
 Molho de Tomate;Di Salerno;não;não;não;não;não;não;não;não;sim;não;não;não
 Iogurte;Larisol;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5870,7 +5870,7 @@ Chocolate;Chocolife;sim;não;não;não;sim;não;não;não;não;não;não;não
 Leite;Kubera;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Forster Nutrition;não;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Stella d'Oro;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Force Up;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Pão do Céu;não;não;não;não;não;não;não;não;não;não;não;sim
 Pão;Kebai;não;não;sim;não;não;não;não;não;não;não;não;não
@@ -5907,7 +5907,7 @@ Chocolate;Onveg;não;não;sim;não;não;não;não;não;sim;não;não;sim
 Molho de Tomate;To Go;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Zuper!;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Espírito Cacau;não;não;não;não;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;sim;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Nutri Vida;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;7Cedros;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;Santa Clara;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -5920,7 +5920,7 @@ Leite;Santa Clara;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Perlat;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Tambaú;não;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Jasmine;sim;não;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Carrefour;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Chocolife;sim;não;não;não;sim;não;não;não;não;não;não;não
 Chocolate;Chocolife;sim;não;não;não;sim;não;não;não;não;não;não;não
@@ -5959,7 +5959,7 @@ Leite;Damare;sim;não;não;não;não;não;não;não;não;não;não;não
 Iogurte;Limilk;sim;não;não;sim;não;sim;não;sim;não;não;não;não
 Pão;Backstube;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Plino Pan;sim;não;sim;não;não;não;não;não;não;não;não;não
-Pão;+QPão;não;não;sim;não;não;não;não;não;sim;não;não;não
+Pão;QPão;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Pães Unipão;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;NA'KAU;não;não;sim;não;não;não;não;não;sim;não;não;não
 Chocolate;Cookoa;não;não;sim;não;não;não;não;não;sim;não;não;não
@@ -6045,7 +6045,7 @@ Pão;Arab;não;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Du'Leste;sim;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Laciella;sim;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Supermercados Unissul;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Chocolate Gramadense;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;HF Carraro;não;não;não;não;não;não;não;não;sim;não;não;sim
 Pão;Campos Gerais;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -6130,11 +6130,11 @@ Pasta de Amendoim;Naked Nuts;sim;não;não;não;não;não;não;não;não;não;n�
 Pasta de Amendoim;Watanabe;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Da Nossa Terra;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Casa Blanca;não;sim;sim;não;não;não;não;não;não;não;não;não
-Pão;+Leve;não;não;não;não;não;não;não;não;não;não;não;não
+Pão;Leve;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Lohil;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;Lider;sim;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Mani Force;não;não;não;não;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Ubá;não;não;sim;não;não;não;não;não;sim;não;não;sim
 Iogurte;Canto de Minas;sim;não;não;sim;não;sim;sim;sim;não;não;não;não
 Iogurte;Itambé;sim;não;não;sim;não;sim;não;não;não;não;não;não
@@ -6208,7 +6208,7 @@ Pão;Pinheirense;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;Nutrella;sim;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Pioneiro;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;LeitBom;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;De La Marie;não;sim;sim;não;não;não;não;não;não;não;não;não
 Pão;Natural Pão;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Lore's;sim;sim;sim;não;não;não;não;não;não;não;não;não
@@ -6232,7 +6232,7 @@ Pão;Netto;sim;sim;não;não;não;não;não;não;não;não;não;não
 Pão;Santa Terezinha;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Leite;Languiru;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Arabeske;sim;sim;sim;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Guimarães;não;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Jatobá;não;não;não;não;não;não;não;não;sim;não;não;sim
 Molho de Tomate;Tomarelli;não;não;sim;não;não;não;não;não;não;não;não;não
@@ -6245,7 +6245,7 @@ Leite;Tocha;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Nutry Pan;não;não;sim;não;não;não;não;não;não;não;não;não
 Pão;DF Pães;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Pão;Arabians Pães;não;não;sim;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Vide Pane;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;"Sabor \u0026amp; Vida";sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Saúde Energia;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -6308,7 +6308,7 @@ Pão;Baalbek;não;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;De;não;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Elemento Puro;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Ai'pï;não;não;não;não;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;CompLeite;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Pão Nino;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Agreco;não;não;não;não;não;não;não;não;sim;não;não;sim
@@ -6341,7 +6341,7 @@ Chocolate;Chocolates Espírito Santo;não;não;sim;não;não;não;não;não;sim;
 Molho de Tomate;Gargano;não;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Embaré;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Anchieta;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Pão do Bento;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Roma;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Goianinho;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -6351,7 +6351,7 @@ Leite;Karandai;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Carrefour;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Bom de Massa;sim;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Atilatte;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;De Panes;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Ekobom;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Choco Soy;sim;não;não;sim;sim;não;não;não;não;não;não;não
@@ -6371,7 +6371,7 @@ Pasta de Amendoim;Pandoim;não;não;não;não;não;não;não;não;sim;não;não;
 Pão;Chechel's;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Bem Nutrir;sim;não;não;não;não;não;não;não;não;não;não;não
 Iogurte;Fruttbom;sim;não;sim;sim;não;não;não;sim;não;não;não;não
-Pão;+ Q Pão;não;não;sim;não;não;não;não;não;sim;não;não;não
+Pão;Q Pão;não;não;sim;não;não;não;não;não;sim;não;não;não
 Iogurte;Frutap;sim;não;sim;sim;não;sim;não;não;não;não;não;não
 Pão;Buongusto;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Choco Life;sim;não;não;não;sim;não;não;não;não;não;não;não
@@ -6573,7 +6573,7 @@ Pão;Di Mangiare;sim;não;não;não;não;não;não;não;não;não;não;não
 Iogurte;Trevinho;sim;não;não;sim;não;sim;não;sim;não;não;não;não
 Pasta de Amendoim;Gulosina;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Santa Terezinha;não;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Aguimar Ferreira;não;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Speciale;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;David;não;não;sim;não;não;não;não;não;sim;não;não;não
@@ -6642,7 +6642,7 @@ Molho de Tomate;La Molisana;não;não;não;não;não;não;não;não;não;não;n�
 Leite;Conaprole;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Colônia Holandesa;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Leitíssimo;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Gramadense;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Pandoim;não;não;sim;não;não;não;não;não;sim;não;não;não
 Iogurte;Yofruta;sim;não;sim;sim;não;sim;sim;sim;não;não;não;não
@@ -6670,7 +6670,7 @@ Iogurte;Batavo;sim;não;não;sim;não;sim;não;sim;não;não;não;não
 Pasta de Amendoim;Proteína Pura;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Nutt's;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Netto Pães;sim;sim;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Special;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Eurolat;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Pramesa;não;não;sim;não;não;não;não;não;sim;não;não;não
@@ -6715,7 +6715,7 @@ Leite;Cooper;sim;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Puravida;não;não;sim;não;não;não;não;não;sim;não;não;não
 Pão;"Pães \u0026amp; Pães";não;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Granoro;não;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Dez Alimentos;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;Damare;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Itambé;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -6820,7 +6820,7 @@ Leite;Sonhos de Leite;sim;não;não;não;não;não;não;não;sim;não;não;não
 Iogurte;Ecila;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Amore Protein;não;não;não;não;sim;não;não;não;não;não;não;não
 Pão;Pan Jeronny;não;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;St Marche;não;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Stella d'Oro;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;La Serenissima;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -6838,7 +6838,7 @@ Pasta de Amendoim;Grain Power;não;não;não;não;não;não;não;não;sim;não;n
 Molho de Tomate;Maratá;não;não;sim;não;não;não;não;sim;não;não;não;não
 Pasta de Amendoim;Santa Helena;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Nutri Vida;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;"Amendoim \u0026amp; Cia";não;não;sim;não;não;não;não;não;sim;não;não;não
 Iogurte;Natural Gurt;sim;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Pão da Vovó;sim;sim;sim;não;não;não;não;não;não;não;não;não
@@ -6867,7 +6867,7 @@ Pão;Solo Bread;não;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Finíssimo;sim;não;não;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Mi'lleva;não;não;sim;não;não;não;não;sim;não;não;não;não
 Pão;Pane Vita;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Nugali;não;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Danky;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Bretas;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -6877,7 +6877,7 @@ Chocolate;Flormel;sim;não;não;não;sim;não;não;não;não;não;não;não
 Molho de Tomate;Prego;não;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Dreams;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Leite;CompLeite;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;"Sabor \u0026amp; Vida";sim;não;não;não;não;não;não;não;sim;não;não;não
 Iogurte;Trevinho;sim;não;não;sim;não;sim;não;sim;não;não;não;não
 Chocolate;Salware;sim;não;não;sim;sim;não;não;não;não;não;não;não
@@ -6935,7 +6935,7 @@ Molho de Tomate;Quero;não;não;sim;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Oderich;não;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;La Ganexa;sim;não;não;sim;não;não;não;não;não;não;não;não
 Chocolate;CACAUHOLIC;sim;não;não;não;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;DF Pães;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Leite;Timbaúba;sim;não;não;não;não;não;não;não;não;não;não;sim
 Molho de Tomate;Franz;sim;não;não;sim;não;não;não;não;não;não;não;não
@@ -7022,7 +7022,7 @@ Pão;Pão do Céu;não;não;não;não;não;não;não;não;sim;não;não;sim
 Molho de Tomate;Molho Mio;não;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Tocca;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Kim;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;sim;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;sim;não
 Leite;Glória;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Pistachio;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Leite;Ecila;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -7041,7 +7041,7 @@ Pasta de Amendoim;Tocca;sim;não;não;não;não;não;não;não;não;não;não;n�
 Iogurte;Larisol;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Nestlé;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Tirol;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Nutrawell;sim;não;não;não;sim;não;não;não;não;não;não;não
 Molho de Tomate;Pomarola;não;não;sim;não;não;não;não;não;sim;não;não;não
 Leite;Colônia Holandesa;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -7095,12 +7095,12 @@ Pão;Vitalin;não;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Vitao;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Cemil;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;LeitBom;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Akio;não;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Salsaretti;não;não;sim;não;não;não;não;não;não;não;sim;não
 Leite;Cemil;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Sunny Day;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Olvebra;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pão;Brico Alimentos;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Cachet;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -7144,7 +7144,7 @@ Chocolate;Laciella;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Blink;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Cellis;sim;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Mandubim;não;sim;sim;não;sim;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Montevérgine;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Molho de Tomate;Aro;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Assis Oficina do Trigo;sim;não;sim;não;não;não;não;não;não;não;não;não
@@ -7221,7 +7221,7 @@ Molho de Tomate;Mutti;não;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Mamma Bia;não;não;não;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Max Titanium;não;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Tirol;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;Gege;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Betânia;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Bretas;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -7230,8 +7230,8 @@ Pão;2 De Setembro;não;sim;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Tatá;sim;não;não;não;não;não;não;não;sim;não;não;não
 Molho de Tomate;Sacciali;sim;não;não;sim;não;não;não;sim;não;não;não;não
 Leite;Aurora;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Tia Sônia;sim;sim;sim;não;não;não;não;não;não;não;não;não
 Pão;Tchê Pão;sim;não;sim;sim;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Up to Go;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -7247,11 +7247,11 @@ Chocolate;Salware;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Pasta de Amendoim;"Amendoim \u0026amp; Cia";não;não;não;não;não;não;não;não;sim;não;não;não
 Chocolate;Garoto;sim;sim;sim;não;não;sim;não;não;não;não;não;não
 Molho de Tomate;Aecia;não;não;não;não;não;não;não;não;sim;não;não;sim
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Vale do Sol;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Pomarola;sim;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Canto de Minas;sim;não;não;não;não;não;não;não;não;não;não;não
-Chocolate;Simple;sim;não;sim;não;não;não;não;não;não;não;não;não
+Chocolate;simple;sim;não;sim;não;não;não;não;não;não;não;não;não
 Chocolate;Chocolate da Ilha;sim;não;sim;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Luke;não;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Cativa;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -7290,7 +7290,7 @@ Pasta de Amendoim;Mendo Fit;não;não;não;não;não;não;não;não;sim;não;nã
 Pasta de Amendoim;Luke;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Tenda Árabe;não;não;sim;não;não;não;não;não;não;não;não;não
 Leite;Nestlé;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Choco Life;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Colônia Holandesa;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Oz;sim;não;não;sim;sim;não;não;não;não;não;não;não
@@ -7321,7 +7321,7 @@ Leite;Regina;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Piracanjuba;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Elegê;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Supermercados Unissul;sim;não;não;não;não;não;não;não;não;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;Shefa;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;"Gold \u0026amp; Ko";sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Marajoara;sim;não;não;não;não;não;não;não;não;não;não;não
@@ -7365,7 +7365,7 @@ Leite;Batavo;sim;não;não;não;não;não;não;não;sim;não;não;não
 Iogurte;Fazenda Bela Vista;sim;não;sim;sim;não;não;não;sim;não;não;não;não
 Chocolate;Planalto;sim;não;sim;não;não;não;não;não;não;não;não;não
 Molho de Tomate;Uniagro;não;não;não;não;não;não;não;não;sim;não;não;sim
-Molho de Tomate;{};não;não;não;não;não;não;não;não;sim;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;sim;não;não;não
 Pasta de Amendoim;Mrs Taste;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Elegê;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Leite Sol;sim;não;não;não;não;não;não;não;sim;não;não;não
@@ -7413,12 +7413,12 @@ Leite;Itambé;sim;não;não;não;não;não;não;não;não;não;não;não
 Leite;Tirol;sim;não;não;não;não;não;não;não;não;não;não;não
 Chocolate;Vitao;sim;não;não;sim;sim;não;não;não;não;não;não;não
 Leite;Sabor de Paracatu;sim;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pão;Di Napoli;sim;não;não;sim;não;não;não;sim;não;não;não;não
 Chocolate;Mother;sim;não;não;não;sim;não;não;não;não;não;não;não
 Leite;Barra Mansa;sim;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Vita Power;não;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Leite;La Serenissima;sim;não;não;não;não;não;não;não;sim;não;não;não
 Leite;Betânia;sim;não;não;não;não;não;não;não;não;não;não;não
 Pão;Bem Nutrir;não;não;não;não;não;não;não;não;sim;não;não;não
@@ -7430,7 +7430,7 @@ Molho de Tomate;Hemmer;não;não;não;não;não;não;não;não;sim;não;não;nã
 Leite;Piracanjuba;sim;não;não;não;não;não;não;não;sim;não;não;não
 Iogurte;Trevinho;sim;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Vitapower;não;não;não;não;não;não;não;não;sim;não;não;não
-Molho de Tomate;{};não;não;não;não;não;não;não;não;não;não;não;não
+Molho de Tomate;XXX;não;não;não;não;não;não;não;não;não;não;não;não
 Pasta de Amendoim;Be Nature;não;não;não;não;não;não;não;não;sim;não;não;não
 Pão;Secale;não;não;sim;não;não;não;não;não;não;não;não;não
 Iogurte;Frimesa;sim;não;não;sim;não;sim;não;sim;não;não;não;não
